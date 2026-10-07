@@ -64,6 +64,9 @@ body {
         #fff7fa,
         #ffe2ed
     );
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .hero-text {
